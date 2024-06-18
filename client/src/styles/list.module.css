@@ -1,0 +1,14 @@
+.icon {
+	display: flex;
+	justify-content: end;
+}
+
+.lists div {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.list svg {
+	cursor: pointer;
+}
+

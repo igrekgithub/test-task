@@ -1,0 +1,28 @@
+
+.cabinet{
+	width: 1200px;
+	margin: 20px auto;
+}
+
+.cabinet h3{
+	color: darkblue;
+	text-align: center;
+	font-style: italic;
+	font-size: 32px;
+	background-color: whitesmoke;
+	border-radius: 7px;
+}
+
+.icon {
+	display: flex;
+	justify-content: end;
+}
+
+.lists div {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.list svg {
+	cursor: pointer;
+}
